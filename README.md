@@ -73,10 +73,10 @@ The model analyzes soil conditions and predicts the most suitable crop with conf
 Crops_Recomendation_System_ML_Project/
 │
 ├── App.py                   # Streamlit web application
-├── Crop_recommendation.csv  # dataset
+├── Crop_recommendation.csv  # Dataset
 ├── df.pkl                   # Pickle file
 ├── pipe.pkl                 # Trained ML model
-├── requirements.txt
+├── requirements.txt         # Requirement.txt file
 └── README.md
 ```
 
